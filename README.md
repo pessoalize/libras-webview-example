@@ -85,7 +85,7 @@ public class MyWebViewActivity extends AppCompatActivity {
             }
         });
         
-        webView.loadUrl("https://inclusao-staging.pessoalize.com/{{SEU_ID}}?permitandroid=true");
+        webView.loadUrl("https://inclusao.pessoalize.com/{{SEU_ID}}?permitandroid=true");
     }
 
     @Override
